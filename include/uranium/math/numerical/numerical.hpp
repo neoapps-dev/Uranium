@@ -1,0 +1,9 @@
+#pragma once
+#include "uranium/math/numerical/root_finding.hpp"
+#include "uranium/math/numerical/interpolation.hpp"
+#include "uranium/math/numerical/integration.hpp"
+#include "uranium/math/numerical/ode.hpp"
+#include "uranium/math/numerical/optimization.hpp"
+#include "uranium/math/numerical/linalg.hpp"
+#include "uranium/math/numerical/fft.hpp"
+#include "uranium/math/numerical/polynomial.hpp"
